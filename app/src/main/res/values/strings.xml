@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TPDM_U1_Ejercicio1</string>
+    <string-array name="estadosrepublica">
+        <item> Nayarit</item>
+        <item> Jalisco</item>
+        <item> Colima</item>
+        <item> Sinaloa</item>
+    </string-array>
+
+</resources>

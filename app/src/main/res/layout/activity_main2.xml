@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:rowCount="7"
+    android:columnCount="3"
+    tools:context=".Main2Activity">
+
+    <Button android:text="hola" android:layout_width="128dp"
+        android:layout_height="128dp" android:background="#8000CC"/>
+    <ImageView android:src="@drawable/fb" />
+    <ImageView android:src="@drawable/gplus"/>
+    <ImageView android:src="@drawable/insta"/>
+    <ImageView android:src="@drawable/in"/>
+    <Space/>
+    <ImageView android:src="@drawable/pint"/>
+    <ImageView android:src="@drawable/twi"/>
+    <ImageView android:src="@drawable/whats"/>
+    <ImageView android:src="@drawable/you"/>
+    <Button android:text="aceptar" android:layout_width="128dp"/>
+    <RadioButton android:text="ACEPTAR"/>
+
+</GridLayout>
